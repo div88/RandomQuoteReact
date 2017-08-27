@@ -1,4 +1,4 @@
-<!-- FreeCodeCamp Challenge: https://www.freecodecamp.org/challenges/build-a-random-quote-machine -->
+FreeCodeCamp Challenge: https://www.freecodecamp.org/challenges/build-a-random-quote-machine
 
 Build a Random Quote Machine
 
